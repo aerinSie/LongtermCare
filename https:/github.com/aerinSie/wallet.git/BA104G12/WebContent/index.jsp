@@ -13,7 +13,7 @@
 	<meta name="keywords" content="">
  
     <title>有我罩你</title>
-    
+       
     <!-- index CSS  =================================== -->
     <link href="<%=request.getContextPath()%>/front/css/index/bootstrap.min.css" rel="stylesheet">
     
@@ -54,7 +54,7 @@
 <%--             <a class="navbar-brand" href="#"><img src="<%=request.getContextPath()%>/img/index/logo/logo_white.png" style="width:40px"" style="width: 40px;"></a> --%>
 <!--         </div> -->
         
-<!--         手機隱藏選單區 -->
+<!--         手 機隱藏選單 區 -->
 <!--         <div class="collapse navbar-collapse navbar-ex1-collapse" id="navbarTopColor"> -->
         
         
